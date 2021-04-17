@@ -1,5 +1,9 @@
 # MNIST-Custom-Dataset
+## Files
 
+- **Experiment log.ipynb** contains the problems which i had to solve to complete the project.
+- **Experiment log.pdf** is the Screenshot of the **Experiment log.ipynb**.
+- **Requirements.md** contains the list of libraries and their versions, which are required for this project.
 ## Task 2.1 
 Use this dataset (https://www.dropbox.com/s/pan6mutc5xj5kj0/trainPart1.zip) to train a CNN. Use no other data source or pretrained networks, and explain your design choices
 during preprocessing, model building and training. Also, cite the sources you used to borrow techniques. A test set will be provided later to judge the performance of your
@@ -35,11 +39,6 @@ different in this dataset. Please save your model checkpoints.
 - **Analysis and Comarisona.pdf** contains the thorough analysis between the 2 models.
 - **checkpoints** contains the checkpoints of both the models. 
 
-## Files
-
-- **Experiment log.ipynb** contains the problems which i had to solve to complete the project.
-- **Experiment log.pdf** is the Screenshot of the **Experiment log.ipynb**.
-- **Requirements.md** contains the list of libraries and their versions, which are required for this project.
 
 ##
 
