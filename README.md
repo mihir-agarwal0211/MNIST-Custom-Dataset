@@ -35,5 +35,12 @@ different in this dataset. Please save your model checkpoints.
 - **Analysis and Comarisona.pdf** contains the thorough analysis between the 2 models.
 - **checkpoints** contains the checkpoints of both the models. 
 
+## Files
+
+- **Experiment log.ipynb** contains the problems which i had to solve to complete the project.
+- **Experiment log.pdf** is the Screenshot of the **Experiment log.ipynb**.
+- **Requirements.md** contains the list of libraries and their versions, which are required for this project.
+
 ##
+
 In all these Folders the Dataset folder has the images used as dataset
